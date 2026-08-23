@@ -1,0 +1,56 @@
+=== SmartTask - Gestor de Tareas ===
+
+1) Agregar tarea
+2) Listar tareas
+3) Marcar tarea como completada
+4) Eliminar tarea
+5) Salir
+Elige una opcion: Nombre de la tarea: Prioridad (ALTA/MEDIA/BAJA): Es urgente? (SI/NO): Tarea agregada: [1] Estudiar para certificacion Java (ALTA) - Normal - ACTIVA
+
+1) Agregar tarea
+2) Listar tareas
+3) Marcar tarea como completada
+4) Eliminar tarea
+5) Salir
+Elige una opcion: Nombre de la tarea: Prioridad (ALTA/MEDIA/BAJA): Es urgente? (SI/NO): Tarea agregada: [2] Comprar cafe (BAJA) - Normal - ACTIVA
+
+1) Agregar tarea
+2) Listar tareas
+3) Marcar tarea como completada
+4) Eliminar tarea
+5) Salir
+Elige una opcion: ID de la tarea a completar: Tarea 1 marcada como completada.
+
+1) Agregar tarea
+2) Listar tareas
+3) Marcar tarea como completada
+4) Eliminar tarea
+5) Salir
+Elige una opcion: --- Tareas activas (1) ---
+[2] Comprar cafe (BAJA) - Normal - ACTIVA
+--- Tareas completadas (1) ---
+[1] Estudiar para certificacion Java (ALTA) - Normal - COMPLETADA
+
+1) Agregar tarea
+2) Listar tareas
+3) Marcar tarea como completada
+4) Eliminar tarea
+5) Salir
+Elige una opcion: ID de la tarea a eliminar: Tarea 2 eliminada.
+
+1) Agregar tarea
+2) Listar tareas
+3) Marcar tarea como completada
+4) Eliminar tarea
+5) Salir
+Elige una opcion: --- Tareas activas (0) ---
+(ninguna)
+--- Tareas completadas (1) ---
+[1] Estudiar para certificacion Java (ALTA) - Normal - COMPLETADA
+
+1) Agregar tarea
+2) Listar tareas
+3) Marcar tarea como completada
+4) Eliminar tarea
+5) Salir
+Elige una opcion: Saliendo de SmartTask. Hasta luego.

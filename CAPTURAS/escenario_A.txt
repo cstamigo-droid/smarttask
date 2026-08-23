@@ -1,0 +1,10 @@
+1
+Estudiar para certificacion Java
+ALTA
+NO
+1
+Revisar Pull Request
+ALTA
+SI
+2
+5

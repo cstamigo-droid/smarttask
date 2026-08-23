@@ -1,0 +1,15 @@
+1
+Estudiar para certificacion Java
+ALTA
+NO
+1
+Comprar cafe
+BAJA
+NO
+3
+1
+2
+4
+2
+2
+5
