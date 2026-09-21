@@ -1,8 +1,22 @@
-# SmartTask — Proyecto evaluado Módulo 4
+# SmartTask
 
-Gestor de tareas de consola en Java. Permite agregar tareas (normales o
-urgentes), listarlas separadas por estado, marcarlas como completadas y
-eliminarlas, todo mediante un menú interactivo por consola (`Scanner`).
+**Gestor de tareas por consola en Java.** Permite agregar tareas normales o urgentes, listarlas
+separadas por estado, completarlas y eliminarlas desde un menú interactivo.
+
+### Qué demuestra este proyecto
+
+| | |
+|---|---|
+| **Orientación a objetos** | Jerarquía de tareas con comportamiento propio por tipo: agregar una categoría nueva no obliga a tocar el menú |
+| **Encapsulamiento** | El estado de cada tarea sólo cambia por sus propios métodos, nunca desde fuera |
+| **Pruebas** | Suite JUnit sobre las reglas: completar una tarea ya completada, eliminar un índice inexistente, entradas inválidas del menú |
+| **Entrega ejecutable** | Se empaqueta como `.jar` y corre con doble clic, sin instalar nada |
+| **Manejo de errores** | La aplicación no cae ante una entrada no numérica: valida y vuelve a preguntar |
+
+> Desarrollado como proyecto evaluado del Módulo 4 (Fundamentos de programación en Java) del
+> bootcamp Full Stack Java Trainee. Autor: Cristian Amigo.
+
+---
 
 ## Requisitos
 
